@@ -1,0 +1,8 @@
+PORT=4000
+JWT_SECRET="gs#secret"
+
+MONGODB_URI="mongodb+srv://mayankrawatug23:mongodb_2025@cluster0.obdknjn.mongodb.net"
+
+CLOUDINARY_CLOUD_NAME='duarguj93'
+CLOUDINARY_API_KEY='149645626174947'
+CLOUDINARY_API_SECRET='KEk-YGkaaG5SKSOdSCYY6pL2BNQ'
